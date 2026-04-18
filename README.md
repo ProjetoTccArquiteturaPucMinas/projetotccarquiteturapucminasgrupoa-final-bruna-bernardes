@@ -1,6 +1,6 @@
 # Sistema de Cálculo de Descontos para Marketplace
 
-## Seu Nome: 
+## Seu Nome: Bruna Barbosa Portilho Bernardes Campidelli
 
 ## Visão Geral do Projeto
 
